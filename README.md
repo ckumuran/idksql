@@ -15,7 +15,7 @@
 
 <br/>
 
-![IDKSQL Landing Page](./IDKDEMO.jpg)
+![IDKSQL Landing Page](./ScreenShot/IDKDEMO.jpg)
 
 *The interface that turns plain English into structured query language — locally, instantly, without phoning home to a cloud API.*
 
@@ -62,19 +62,19 @@ All of it — from natural language to rendered results — in under 3 seconds o
 
 ### The Landing Page
 
-![IDKSQL Landing](./IDKDEMO.jpg)
+![IDKSQL Landing](./ScreenShot/IDKDEMO.jpg)
 
 > *The entry point. Black field, red grid lines, tactical typography. The landing page communicates the system's philosophy immediately: this is a precision tool, not a consumer product. The input interface is centered, uncluttered, deliberately intimidating — the same way a terminal is intimidating to someone who's never used one. To everyone else, it feels like home.*
 
 ### The Query Execution Interface
 
-![IDKSQL Main UI](./IDKSQL.jpeg)
+![IDKSQL Main UI](./ScreenShot/IDKSQL.jpeg)
 
 > *Live query execution against MySQL. The Monaco editor occupies the upper panel, displaying the AI-generated SQL with full syntax highlighting. Below it, the result table renders query output with column headers and row data. The terminal panel on the right logs the execution lifecycle in real time — schema extraction, prompt construction, LLM response latency, adapter execution time. AI-generated SQL and terminal feedback visible simultaneously, exactly the way a systems engineer would want it.*
 
 ### The VSCode Extension
 
-![IDKSQL VSCode Extension](./IDKTerminal.jpg)
+![IDKSQL VSCode Extension](./ScreenShot/IDKTerminal.jpg)
 
 > *AI-native database interaction directly in the editor. The sidebar panel renders the full IDKSQL interface inside VSCode — connection management, natural language input, SQL preview, result table, explanation panel. No context switching. No alt-tab. Your database is right there next to your code, answering questions in the same language you're already thinking in.*
 
@@ -1388,5 +1388,9 @@ The project was built because the author was tired of writing `SELECT * FROM use
 **Built for engineers who think in questions, not in syntax.**
 
 `ask your database anything`
+
+<br/>
+
+Made by **C.Kumaran**
 
 </div>
